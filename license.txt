@@ -1,1 +1,2 @@
 learning git
+learn git from liaoxuefeng ---written by lsh
